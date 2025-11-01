@@ -2,7 +2,7 @@
 
 ## Authors
 
-This mini research study was developed by us as part of Assignment 3, investigating the
+This mini research study was developed by Johan Nielsen, Lasse Abildhauge Christensen and Jakob Ahlberg as part of Assignment 3, investigating the
 Lottery Ticket Hypothesis on convolutional neural networks.
 
 ## Background
